@@ -1,6 +1,10 @@
 [
   { "name": "Simple", "url": "simple.js" },
   { "name": "Stokes Drag", "url": "stokesDrag.js" },
+<<<<<<< HEAD
   { "name": "Entrainment", "url": "entrainment.js" },
   { "name": "Condensation", "url": "condensation.js" }
+=======
+  { "name": "Entrainment", "url": "entrainment.js" }
+>>>>>>> 41658ec41d40f1d47389576c0f42a2db452aae12
 ]
